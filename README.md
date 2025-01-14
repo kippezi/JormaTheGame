@@ -68,12 +68,9 @@ Sunnyland Free Asset pack by **Anzimus**
 ## Getting started
 #### Installation
 
-###### Option one
 Download the game files, extract the zip file and run JormaTheGame.exe
 https://drive.google.com/file/d/1uuNxhsuYB9vgZUmGzZ7u6Zl4mDda10ZQ/view?usp=sharing
 
-###### Option two
-Play the game online at https://play.unity.com/mg/other/jorma-the-game
 
 ## License
 Distributed under the MIT License. See LICENSE.txt for more information.
